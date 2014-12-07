@@ -3,9 +3,10 @@ webchat
 
 How has this name not been used?
 
+[Coggle - feature map](https://coggle.it/diagram/548413a31a151b440c19fa6e/22952499389ddedb4e64a1f7dcce96c5dd7cda7afb4524f5cc3df60a0e19aa68)  
+[Trello - todo list](https://trello.com/b/gZYLNKpP)  
+these will be editable soon
 
-[Coggle - feature map](https://coggle.it/diagram/548413a31a151b440c19fa6e)  
-[Trello - todo list](https://trello.com/b/gZYLNKpP/webchat)
 
 Things to learn and read up on:
 ===============================
